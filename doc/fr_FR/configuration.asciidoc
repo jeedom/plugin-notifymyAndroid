@@ -1,0 +1,28 @@
+Comment ça marche.
+
+Il vous faut un compte notify my android.
+Ensuite vous pouvez rajouter ce compte à Jeedom avec son apikey.
+
+Tout d'abord il vous faut télécharger et activer le plugin.
+Une fois fait vous devriez pouvoir accéder au plugin dans
+le menu plugins/communication :
+
+image:../images/notifymyAndroid_screenshot2.JPG[width=200]
+
+Ensuite, il vous suffit de cliquer sur "Ajouter un compte" et de lui donner un nom.
+
+Vous pouvez créer plusieurs comptes.
+
+image:../images/notifymyAndroid_screenshot3.JPG[width=400]
+
+Pour chaque compte, il vous faut renseigner la clé API.
+
+Vous pouvez créer une ou plusieurs commandes (en fonction de la priorité)
+
+image:../images/notifymyAndroid_screenshot1.JPG[width=400]
+
+Lorsque tout sera configuré et testé, vous pourrez rajouter les notifications dans vos scénarios. Et en fonction de la criticité de la notifications
+vous pourrez choisir parmi les différentes priorités que vous aurez rajoutées
+Il vous suffira de mettre un titre et un message.
+
+Et hop vous recevrez tout sur votre téléphone

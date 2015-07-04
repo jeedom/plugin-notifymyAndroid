@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>notifymyAndroid</id>
+    <name>Notify My Android</name>
+    <description>Plugin pour utiliser Notify My Android</description>
+    <icon>fa techno-phone3</icon>
+    <licence>AGPL</licence>
+    <author>Ludovic Sarakha</author>
+    <installation>Aucune</installation>
+    <require>1.10</require>
+    <version>0.3</version>
+    <category>communication</category>
+</info>
+

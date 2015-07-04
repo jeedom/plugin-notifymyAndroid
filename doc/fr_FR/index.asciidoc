@@ -1,0 +1,22 @@
+== Notify My Android
+
+=== Description
+Plugin permettant d'utiliser l'api notify my android
+
+image:../images/notifymyAndroid_icon.png[width=200]
+
+Ce plugin permet de pouvoir envoyer des notifications sur votre téléphone
+avec l'api Notify My Android. Il permet de définir plusieurs niveaux
+de notifications (urgent, faible, très faible....)
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]

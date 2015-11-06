@@ -59,6 +59,7 @@ class notifymyAndroidcmd extends cmd {
 		
 		log::add('notifymyAndroid','event','Envoi: Priorité : ' . $this->getConfiguration('priority') . ' Titre : ' . $_options['title'] . ' Message : ' . $_options['message']);
         $url = NOTIFYMYANDROIDADDR . '?apikey=' . ($notifymyAndroid->getConfiguration('key')) . '&application=Jeedom&event=' . urlencode($_options['title']) . '&description=' . urlencode($_options['message']) . '&priority=' . ($this->getConfiguration('priority'));
+        log::add('notifymyAndroid','debug','Url d\'envoi:' . $url);
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         $result=curl_exec($ch);

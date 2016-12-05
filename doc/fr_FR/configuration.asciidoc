@@ -21,7 +21,7 @@ Vous pouvez créer une ou plusieurs commandes (en fonction de la priorité)
 
 image:../images/notifymyAndroid_screenshot1.JPG[width=400]
 
-Lorsque tout sera configuré et testé, vous pourrez rajouter les notifications dans vos scénarios. Et en fonction de la criticité de la notifications
+Lorsque tout sera configuré et testé, vous pourrez rajouter les notifications dans vos scénarios. Et en fonction de la criticité de la notification
 vous pourrez choisir parmi les différentes priorités que vous aurez rajoutées
 Il vous suffira de mettre un titre et un message.
 

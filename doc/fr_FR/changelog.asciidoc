@@ -1,1 +1,1 @@
-Rajout de la doc
+Changelog détaillé : https://github.com/jeedom/plugin-notifymyAndroid/commits/stable
